@@ -1,0 +1,29 @@
+// I added this line to check if comments were working correctly. It should not be displayed on the screen.
++
+-
+*
+/
+=
+>
+>=
+<
+<=
+==
+!=
+(
+)
+;
+if
+then
+else
+endif
+while
+do
+endwhile
+print
+newline
+000000000000345
+id1
+id2
+id1
+"hello, how are you"
